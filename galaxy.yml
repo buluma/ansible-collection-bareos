@@ -1,0 +1,21 @@
+---
+namespace: buluma
+name: bareos
+version: 2.0.4
+readme: README.md
+authors:
+  - Shadow Walker <me@buluma.co.ke>
+description: A collection of roles for Bareos
+license_file: 'LICENSE'
+tags:
+  - buluma
+  - linux
+  - bareos
+  - backup
+dependencies:
+  ansible.posix: "*"
+repository: https://github.com/buluma/ansible-collection-bareos
+documentation: https://buluma.github.io/
+homepage: https://buluma.github.io/
+issues: http://github.com/buluma/ansible-collection-bareos/issues
+build_ignore: []
