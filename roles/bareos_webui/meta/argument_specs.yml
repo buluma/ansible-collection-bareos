@@ -7,7 +7,7 @@ argument_specs:
     short_description: "Install and configure BareOS WebUI on your system."
     description: >
       Install and configure BareOS WebUI on your system.
-    author: Shadow Walker
+    author: Robert de Bock
     options:
       bareos_webui_directors:
         type: "list"
